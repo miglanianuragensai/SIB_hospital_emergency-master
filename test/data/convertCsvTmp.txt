@@ -1,0 +1,7 @@
+"header";"field2";"lastfield"
+1134;12/3/2000;Good line
+11;12/3/2000;Not so good
+for the string continues on the enxt line
+13;13/2/200; This is worse
+12/23/20
+134;01/01/2001;end of it

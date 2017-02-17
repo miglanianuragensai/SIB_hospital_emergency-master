@@ -1,0 +1,7 @@
+"Giga","Mega","Kilo"
+4.5,55,100
+"Hello
+you","not good",34
+Even worse, bad
+strin,,
+
